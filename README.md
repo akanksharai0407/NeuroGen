@@ -23,9 +23,9 @@ The project uses the publicly available [EEG Brainwave Dataset: Feeling Emotions
 
 ## Team
 
-- Akanksha Rai – Data preprocessing, CNN model, report writing  
-- Zhanel Ashirbek – EEGNet model, experiments, ablation studies  
-- Denny Irfasha – NLP integration, report introduction and conclusion, plotting  
+- Akanksha Rai
+- Zhanel Ashirbek
+- Denny Irfasha
 
 ## Future Work
 
