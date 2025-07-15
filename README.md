@@ -1,4 +1,4 @@
-# NeuroGen: Emotion-to-Language System from EEG Signals using Deep Learning
+# NeuroGen: Emotion to Language System from EEG Signals using Deep Learning
 
 ## Project Overview
 
