@@ -21,17 +21,17 @@ This project classifies EEG signals into emotions, generates natural language se
 
 The project uses the publicly available [EEG Brainwave Dataset: Feeling Emotions](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions) from Kaggle.
 
+## Future Work
+
+- Expand the model to support real-time EEG signal streaming for live emotion recognition.  
+- Incorporate multimodal data (e.g., ECG, facial expressions) to improve classification accuracy.  
+- Fine-tune or train larger language models for more personalized and context-aware text generation.  
+- Develop a mobile or embedded deployment for assistive devices using the distilled models.  
+- Integrate advanced speech synthesis systems for more natural and expressive voice output.  
+- Explore continual learning to adapt the model to new users without forgetting previous knowledge.
+
 ## Team
 
 - Akanksha Rai
 - Zhanel Ashirbek
 - Denny Irfasha
-
-## Future Work
-
-- Expand the model to support **real-time EEG signal streaming** for live emotion recognition.  
-- Incorporate **multimodal data** (e.g., ECG, facial expressions) to improve classification accuracy.  
-- Fine-tune or train larger language models for more personalized and context-aware text generation.  
-- Develop a **mobile or embedded deployment** for assistive devices using the distilled models.  
-- Integrate advanced **speech synthesis systems** for more natural and expressive voice output.  
-- Explore **continual learning** to adapt the model to new users without forgetting previous knowledge.
